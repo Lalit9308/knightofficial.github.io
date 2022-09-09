@@ -9,7 +9,7 @@ A site for Knight Official bot to showcase some of its features & commands.
 
 ## Site Features
 
-- Dark & Neon Theme
+- Dark & Neon Theme is the best ever theme for website which i use
 - Featured Servers!
 - Commands list
 - Zero downtime
